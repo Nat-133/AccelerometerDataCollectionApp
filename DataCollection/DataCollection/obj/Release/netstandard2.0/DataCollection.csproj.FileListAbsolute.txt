@@ -1,0 +1,14 @@
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\bin\Release\netstandard2.0\DataCollection.deps.json
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\bin\Release\netstandard2.0\DataCollection.dll
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\bin\Release\netstandard2.0\ref\DataCollection.dll
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\bin\Release\netstandard2.0\DataCollection.pdb
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\DataCollection.csproj.AssemblyReference.cache
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\DataCollection.AssemblyInfoInputs.cache
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\DataCollection.AssemblyInfo.cs
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\DataCollection.csproj.CoreCompileInputs.cache
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\DataCollection.dll
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\ref\DataCollection.dll
+C:\Users\Nat\source\repos\DataCollection\DataCollection\DataCollection\obj\Release\netstandard2.0\DataCollection.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DataCollection.MainPage"> 
+
+    <StackLayout>
+        <Frame BackgroundColor="#005000" Padding="24" CornerRadius="0">
+            <Label Text="Nat's Data Collection App" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="UserID:" Grid.Row="0" Grid.ColumnSpan="2" x:Name="Userid"/>
+        
+        <Button Text="Activate Data Collection" Clicked="ToggleCollection"/>
+        <Button Text="Resend Unsent Data" Clicked="ResendData"/>
+        <Button Text="Refresh readings" Clicked="ReadData"/>
+        <Label Text="accelerometer readings" x:Name="Readings"/>
+        <Button Text="Delete Unsent Data" Clicked="DeleteData"/>
+    </StackLayout>
+
+</ContentPage>
